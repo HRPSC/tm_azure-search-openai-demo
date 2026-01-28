@@ -1,0 +1,17 @@
+<step title="Incoming Request" date="2025-10-31T09:50:12.196" instance="aa2aa3" url="/api/zipdeploy?isAsync=true" method="POST" type="request" pid="770,1,7" Accept="application/json" Host="hrpsc-ai.scm.azurewebsites.net" User-Agent="azsdk-go-zip-deploy/1.0.0 (go1.25.0 X:loopvar; Windows_NT),azdev/1.20.3 (Go go1.25.0 X:loopvar; windows/amd64)" Accept-Encoding="gzip" Authorization="Bea..." Content-Type="application/octet-stream" Content-Length="3508129" X-Ms-Correlation-Request-Id="8a08f8b2682b97a24fd04a2dce1f16af" X-ARR-LOG-ID="8a08f8b2-682b-97a2-4fd0-4a2dce1f16af" CLIENT-IP="210.160.8.69:19896" X-SITE-DEPLOYMENT-ID="hrpsc-ai" WAS-DEFAULT-HOSTNAME="hrpsc-ai.scm.azurewebsites.net" X-Forwarded-Proto="https" X-AppService-Proto="https" X-Forwarded-TlsVersion="1.3" X-WAWS-Unencoded-URL="/api/zipdeploy?isAsync=true" X-Client-IP="210.160.8.69" X-Client-Port="19896" >
+  <step title="ZipPushDeploy" date="2025-10-31T09:50:12.838" >
+    <step title="ZipDeploy. Extract zip. Remote build." date="2025-10-31T09:50:12.850" /><!-- duration: 4ms -->
+    <step title="None repository commit" date="2025-10-31T09:50:12.861" >
+      <step title="Commit id: e6930d65-2de7-434e-95e4-25400f9e0041" date="2025-10-31T09:50:12.865" Message="N/A" AuthorName="N/A" AuthorEmail="N/A" /><!-- duration: 3ms -->
+    </step><!-- duration: 10ms -->
+    <step title="Starting PushDeployAsync" date="2025-10-31T09:50:12.878" /><!-- duration: 4ms -->
+    <step title="Writing artifact to /tmp/zipdeploy/4b0cfd0c-2536-4b38-adaa-8d62235422d5.zip" date="2025-10-31T09:50:12.896" >
+      <step title="Writing multipart request body to /tmp/zipdeploy/4b0cfd0c-2536-4b38-adaa-8d62235422d5.zip" date="2025-10-31T09:50:12.909" /><!-- duration: 9ms -->
+    </step><!-- duration: 147ms -->
+    <step title="Start deployment in the background" date="2025-10-31T09:50:13.092" >
+      <step title="Acquiring Deployment Lock" date="2025-10-31T09:50:13.149" /><!-- duration: 3ms -->
+      <step title="Acquired Deployment Lock" date="2025-10-31T09:50:13.211" /><!-- duration: 5ms -->
+    </step><!-- duration: 275ms -->
+  </step><!-- duration: 545ms -->
+  <step title="Outgoing response" date="2025-10-31T09:50:13.413" type="response" statusCode="202" statusText="Accepted" /><!-- duration: 4ms -->
+</step><!-- duration: 1225ms -->

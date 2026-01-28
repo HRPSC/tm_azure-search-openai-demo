@@ -1,0 +1,316 @@
+2026-01-05 00:00:53.273 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ24" received FIN.
+2026-01-05 00:00:53.274 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ24" disconnecting.
+2026-01-05 00:00:53.274 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ24" stopped.
+2026-01-05 00:00:53.274 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ24" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:04:38.642 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ25" accepted.
+2026-01-05 00:04:38.653 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ25" started.
+2026-01-05 00:04:38.654 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:04:38.709 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:04:38.709 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:04:38.760 +00:00 [Trace] Middleware: Forwarded request finished in 50.624ms 200 OK
+2026-01-05 00:04:38.827 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:04:38.827588Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:04:38.828 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ25" completed keep alive response.
+2026-01-05 00:04:38.828 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 173.6561ms
+2026-01-05 00:05:53.618 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ25" received FIN.
+2026-01-05 00:05:53.619 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ25" disconnecting.
+2026-01-05 00:05:53.619 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ25" stopped.
+2026-01-05 00:05:53.619 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ25" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:09:38.931 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ26" accepted.
+2026-01-05 00:09:38.933 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ26" started.
+2026-01-05 00:09:38.935 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:09:38.957 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:09:38.957 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:09:38.981 +00:00 [Trace] Middleware: Forwarded request finished in 23.996ms 200 OK
+2026-01-05 00:09:39.002 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:09:39.0023533Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:09:39.002 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ26" completed keep alive response.
+2026-01-05 00:09:39.002 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 67.6397ms
+2026-01-05 00:10:53.932 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ26" received FIN.
+2026-01-05 00:10:53.932 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ26" disconnecting.
+2026-01-05 00:10:53.932 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ26" stopped.
+2026-01-05 00:10:53.932 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ26" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:14:39.243 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ27" accepted.
+2026-01-05 00:14:39.246 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ27" started.
+2026-01-05 00:14:39.246 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:14:39.253 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:14:39.253 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:14:39.301 +00:00 [Trace] Middleware: Forwarded request finished in 48.111ms 200 OK
+2026-01-05 00:14:39.332 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:14:39.3324035Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:14:39.333 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ27" completed keep alive response.
+2026-01-05 00:14:39.333 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 86.7966ms
+2026-01-05 00:15:54.231 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ27" received FIN.
+2026-01-05 00:15:54.231 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ27" disconnecting.
+2026-01-05 00:15:54.231 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ27" stopped.
+2026-01-05 00:15:54.231 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ27" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:19:39.538 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ28" accepted.
+2026-01-05 00:19:39.539 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ28" started.
+2026-01-05 00:19:39.541 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:19:39.555 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:19:39.555 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:19:39.574 +00:00 [Trace] Middleware: Forwarded request finished in 18.798ms 200 OK
+2026-01-05 00:19:39.593 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:19:39.5929956Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:19:39.594 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ28" completed keep alive response.
+2026-01-05 00:19:39.594 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 52.8015ms
+2026-01-05 00:20:54.543 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ28" received FIN.
+2026-01-05 00:20:54.543 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ28" disconnecting.
+2026-01-05 00:20:54.543 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ28" stopped.
+2026-01-05 00:20:54.543 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ28" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:24:39.896 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ29" accepted.
+2026-01-05 00:24:40.046 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ29" started.
+2026-01-05 00:24:40.048 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:24:40.261 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:24:40.261 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:24:40.451 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ29" received FIN.
+2026-01-05 00:24:40.451 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ29" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:24:40.452 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ29" disconnecting.
+2026-01-05 00:24:40.523 +00:00 [Trace] Middleware: Forwarded request finished in 261.680ms 200 OK
+2026-01-05 00:24:40.613 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:24:40.6137147Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:24:40.614 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 565.7940ms
+2026-01-05 00:24:40.614 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ29" stopped.
+2026-01-05 00:29:40.142 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2A" accepted.
+2026-01-05 00:29:40.144 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2A" started.
+2026-01-05 00:29:40.146 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:29:40.151 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:29:40.151 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:29:40.208 +00:00 [Trace] Middleware: Forwarded request finished in 56.637ms 200 OK
+2026-01-05 00:29:40.255 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:29:40.2557686Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:29:40.257 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2A" completed keep alive response.
+2026-01-05 00:29:40.257 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 110.6779ms
+2026-01-05 00:30:55.137 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2A" received FIN.
+2026-01-05 00:30:55.138 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2A" disconnecting.
+2026-01-05 00:30:55.138 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2A" stopped.
+2026-01-05 00:30:55.138 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:34:40.447 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2B" accepted.
+2026-01-05 00:34:40.448 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2B" started.
+2026-01-05 00:34:40.451 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:34:40.460 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:34:40.460 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:34:40.480 +00:00 [Trace] Middleware: Forwarded request finished in 19.769ms 200 OK
+2026-01-05 00:34:40.500 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:34:40.5006027Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:34:40.501 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2B" completed keep alive response.
+2026-01-05 00:34:40.502 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 51.7929ms
+2026-01-05 00:35:55.462 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2B" received FIN.
+2026-01-05 00:35:55.462 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2B" disconnecting.
+2026-01-05 00:35:55.463 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2B" stopped.
+2026-01-05 00:35:55.463 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2B" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:39:40.729 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2C" accepted.
+2026-01-05 00:39:40.731 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2C" started.
+2026-01-05 00:39:40.735 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:39:40.742 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:39:40.742 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:39:40.778 +00:00 [Trace] Middleware: Forwarded request finished in 35.620ms 200 OK
+2026-01-05 00:39:40.793 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:39:40.7938672Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:39:40.794 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2C" completed keep alive response.
+2026-01-05 00:39:40.794 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 58.6084ms
+2026-01-05 00:40:55.723 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2C" received FIN.
+2026-01-05 00:40:55.724 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2C" disconnecting.
+2026-01-05 00:40:55.724 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2C" stopped.
+2026-01-05 00:40:55.724 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2C" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:44:41.038 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2D" accepted.
+2026-01-05 00:44:41.049 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2D" started.
+2026-01-05 00:44:41.050 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:44:41.058 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:44:41.058 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:44:41.090 +00:00 [Trace] Middleware: Forwarded request finished in 31.361ms 200 OK
+2026-01-05 00:44:41.113 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:44:41.1129577Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:44:41.114 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2D" completed keep alive response.
+2026-01-05 00:44:41.114 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 63.3777ms
+2026-01-05 00:45:56.032 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2D" received FIN.
+2026-01-05 00:45:56.032 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2D" disconnecting.
+2026-01-05 00:45:56.032 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2D" stopped.
+2026-01-05 00:45:56.032 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:49:41.360 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2E" accepted.
+2026-01-05 00:49:41.362 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2E" started.
+2026-01-05 00:49:41.363 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:49:41.380 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:49:41.380 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:49:41.402 +00:00 [Trace] Middleware: Forwarded request finished in 22.002ms 200 OK
+2026-01-05 00:49:41.419 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:49:41.4187576Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:49:41.419 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2E" completed keep alive response.
+2026-01-05 00:49:41.420 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 56.2159ms
+2026-01-05 00:50:42.131 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2E" received FIN.
+2026-01-05 00:50:42.131 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2E" disconnecting.
+2026-01-05 00:50:42.131 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2E" stopped.
+2026-01-05 00:50:42.131 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:54:41.764 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2F" accepted.
+2026-01-05 00:54:41.774 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2F" started.
+2026-01-05 00:54:41.794 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:54:41.826 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:54:41.826 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:54:41.905 +00:00 [Trace] Middleware: Forwarded request finished in 78.885ms 200 OK
+2026-01-05 00:54:41.954 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:54:41.9543954Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:54:41.954 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2F" completed keep alive response.
+2026-01-05 00:54:41.956 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 160.6401ms
+2026-01-05 00:55:56.754 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2F" received FIN.
+2026-01-05 00:55:56.754 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2F" disconnecting.
+2026-01-05 00:55:56.754 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2F" stopped.
+2026-01-05 00:55:56.754 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2F" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 00:59:42.130 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2G" accepted.
+2026-01-05 00:59:42.132 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2G" started.
+2026-01-05 00:59:42.133 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 00:59:42.151 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 00:59:42.151 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 00:59:42.293 +00:00 [Trace] Middleware: Forwarded request finished in 141.900ms 200 OK
+2026-01-05 00:59:42.341 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T00:59:42.3410454Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 00:59:42.342 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2G" completed keep alive response.
+2026-01-05 00:59:42.342 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 208.5852ms
+2026-01-05 01:00:43.971 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2G" received FIN.
+2026-01-05 01:00:43.973 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2G" disconnecting.
+2026-01-05 01:00:43.973 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2G" stopped.
+2026-01-05 01:00:43.974 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2G" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:04:42.398 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2H" accepted.
+2026-01-05 01:04:42.410 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2H" started.
+2026-01-05 01:04:42.417 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:04:42.477 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:04:42.477 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:04:42.560 +00:00 [Trace] Middleware: Forwarded request finished in 82.892ms 200 OK
+2026-01-05 01:04:42.598 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:04:42.5983016Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:04:42.601 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2H" completed keep alive response.
+2026-01-05 01:04:42.601 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 183.4630ms
+2026-01-05 01:05:57.387 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2H" received FIN.
+2026-01-05 01:05:57.387 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2H" disconnecting.
+2026-01-05 01:05:57.387 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2H" stopped.
+2026-01-05 01:05:57.387 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2H" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:09:42.752 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2I" accepted.
+2026-01-05 01:09:42.770 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2I" started.
+2026-01-05 01:09:42.771 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:09:42.802 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:09:42.803 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:09:42.892 +00:00 [Trace] Middleware: Forwarded request finished in 89.282ms 200 OK
+2026-01-05 01:09:42.931 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:09:42.9312765Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:09:42.931 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2I" completed keep alive response.
+2026-01-05 01:09:42.931 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 160.0330ms
+2026-01-05 01:10:57.745 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2I" received FIN.
+2026-01-05 01:10:57.745 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2I" disconnecting.
+2026-01-05 01:10:57.745 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2I" stopped.
+2026-01-05 01:10:57.745 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2I" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:14:43.125 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2J" accepted.
+2026-01-05 01:14:43.135 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2J" started.
+2026-01-05 01:14:43.155 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:14:43.159 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:14:43.159 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:14:43.195 +00:00 [Trace] Middleware: Forwarded request finished in 35.456ms 200 OK
+2026-01-05 01:14:43.215 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:14:43.2150252Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:14:43.215 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2J" completed keep alive response.
+2026-01-05 01:14:43.216 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 61.0642ms
+2026-01-05 01:15:58.122 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2J" received FIN.
+2026-01-05 01:15:58.122 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2J" disconnecting.
+2026-01-05 01:15:58.122 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2J" stopped.
+2026-01-05 01:15:58.122 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2J" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:19:43.436 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2K" accepted.
+2026-01-05 01:19:43.455 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2K" started.
+2026-01-05 01:19:43.517 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:19:43.535 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:19:43.535 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:19:43.611 +00:00 [Trace] Middleware: Forwarded request finished in 75.883ms 200 OK
+2026-01-05 01:19:43.623 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:19:43.623267Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:19:43.623 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2K" completed keep alive response.
+2026-01-05 01:19:43.623 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 106.5950ms
+2026-01-05 01:20:58.431 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2K" received FIN.
+2026-01-05 01:20:58.434 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2K" disconnecting.
+2026-01-05 01:20:58.434 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2K" stopped.
+2026-01-05 01:20:58.434 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2K" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:24:43.747 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2L" accepted.
+2026-01-05 01:24:43.757 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2L" started.
+2026-01-05 01:24:43.757 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:24:43.761 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:24:43.761 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:24:43.817 +00:00 [Trace] Middleware: Forwarded request finished in 55.822ms 200 OK
+2026-01-05 01:24:43.841 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:24:43.8419331Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:24:43.843 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2L" completed keep alive response.
+2026-01-05 01:24:43.845 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 85.9153ms
+2026-01-05 01:25:58.725 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2L" received FIN.
+2026-01-05 01:25:58.731 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2L" disconnecting.
+2026-01-05 01:25:58.731 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2L" stopped.
+2026-01-05 01:25:58.731 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2L" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:29:44.055 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2M" accepted.
+2026-01-05 01:29:44.057 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2M" started.
+2026-01-05 01:29:44.058 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:29:44.063 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:29:44.063 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:29:44.128 +00:00 [Trace] Middleware: Forwarded request finished in 64.657ms 200 OK
+2026-01-05 01:29:44.160 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:29:44.1607703Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:29:44.168 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2M" completed keep alive response.
+2026-01-05 01:29:44.168 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 109.2758ms
+2026-01-05 01:30:59.044 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2M" received FIN.
+2026-01-05 01:30:59.045 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2M" disconnecting.
+2026-01-05 01:30:59.045 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2M" stopped.
+2026-01-05 01:30:59.045 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2M" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:34:44.407 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2N" accepted.
+2026-01-05 01:34:44.410 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2N" started.
+2026-01-05 01:34:44.412 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:34:44.416 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:34:44.416 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:34:44.474 +00:00 [Trace] Middleware: Forwarded request finished in 48.541ms 200 OK
+2026-01-05 01:34:44.503 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:34:44.5030995Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:34:44.503 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2N" completed keep alive response.
+2026-01-05 01:34:44.503 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 91.4908ms
+2026-01-05 01:35:59.416 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2N" received FIN.
+2026-01-05 01:35:59.416 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2N" disconnecting.
+2026-01-05 01:35:59.416 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2N" stopped.
+2026-01-05 01:35:59.416 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2N" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:39:44.702 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2O" accepted.
+2026-01-05 01:39:44.723 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2O" started.
+2026-01-05 01:39:44.732 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:39:44.752 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:39:44.752 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:39:44.781 +00:00 [Trace] Middleware: Forwarded request finished in 29.160ms 200 OK
+2026-01-05 01:39:44.794 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:39:44.7945594Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:39:44.795 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2O" completed keep alive response.
+2026-01-05 01:39:44.795 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 63.1646ms
+2026-01-05 01:40:59.730 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2O" received FIN.
+2026-01-05 01:40:59.748 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2O" disconnecting.
+2026-01-05 01:40:59.748 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2O" stopped.
+2026-01-05 01:40:59.748 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2O" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:44:44.984 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2P" accepted.
+2026-01-05 01:44:44.993 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2P" started.
+2026-01-05 01:44:44.995 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:44:45.027 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:44:45.027 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:44:45.066 +00:00 [Trace] Middleware: Forwarded request finished in 38.337ms 200 OK
+2026-01-05 01:44:45.092 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:44:45.0928766Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:44:45.093 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2P" completed keep alive response.
+2026-01-05 01:44:45.093 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 98.2097ms
+2026-01-05 01:45:59.965 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2P" received FIN.
+2026-01-05 01:45:59.966 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2P" disconnecting.
+2026-01-05 01:45:59.966 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2P" stopped.
+2026-01-05 01:45:59.967 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2P" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:49:45.263 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2Q" accepted.
+2026-01-05 01:49:45.273 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2Q" started.
+2026-01-05 01:49:45.292 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:49:45.304 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:49:45.304 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:49:45.423 +00:00 [Trace] Middleware: Forwarded request finished in 118.605ms 200 OK
+2026-01-05 01:49:45.484 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:49:45.4839772Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:49:45.485 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2Q" completed keep alive response.
+2026-01-05 01:49:45.486 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 203.8946ms
+2026-01-05 01:51:00.264 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2Q" received FIN.
+2026-01-05 01:51:00.269 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2Q" disconnecting.
+2026-01-05 01:51:00.269 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2Q" stopped.
+2026-01-05 01:51:00.269 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2Q" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:54:45.604 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2R" accepted.
+2026-01-05 01:54:45.616 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2R" started.
+2026-01-05 01:54:45.646 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:54:45.676 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:54:45.676 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:54:45.805 +00:00 [Trace] Middleware: Forwarded request finished in 118.490ms 200 OK
+2026-01-05 01:54:45.877 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:54:45.8776993Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:54:45.895 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2R" completed keep alive response.
+2026-01-05 01:54:45.895 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 257.4816ms
+2026-01-05 01:55:46.611 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2R" received FIN.
+2026-01-05 01:55:46.617 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2R" disconnecting.
+2026-01-05 01:55:46.617 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2R" stopped.
+2026-01-05 01:55:46.617 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2R" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 01:59:45.818 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2S" accepted.
+2026-01-05 01:59:45.821 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2S" started.
+2026-01-05 01:59:45.823 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request starting HTTP/1.1 GET http://hrpsc-ai.azurewebsites.net/ - - -
+2026-01-05 01:59:45.854 +00:00 [Trace] Middleware: Request came in on normal port, sending to normal target http://169.254.129.3:8000/
+2026-01-05 01:59:45.854 +00:00 [Trace] Middleware: Forwarding request to http://169.254.129.3:8000/
+2026-01-05 01:59:45.906 +00:00 [Trace] Middleware: Forwarded request finished in 51.641ms 200 OK
+2026-01-05 01:59:45.949 +00:00 [Information] MiddlewareConsoleLogs: {"Timestamp":"2026-01-05T01:59:45.9493374Z","SiteName":"hrpsc-ai","TaskName":"MiddlewareInformation","Message":"Handling CORS regular (non-preflight) request with origin ''","ModuleRuntimeVersion":"1.12.4","ProviderName":"Microsoft-Azure-AppService-Middleware","Level":4,"EventId":1}
+2026-01-05 01:59:45.950 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2S" completed keep alive response.
+2026-01-05 01:59:45.950 +00:00 [Information] Microsoft.AspNetCore.Hosting.Diagnostics: Request finished HTTP/1.1 GET https://hrpsc-ai.azurewebsites.net/ - 200 771 text/html;+charset=utf-8 126.8515ms
+2026-01-05 02:21:41.191 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2S" received FIN.
+2026-01-05 02:21:41.196 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2S" disconnecting.
+2026-01-05 02:21:41.196 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Connections: Connection id "0HNI452CPTQ2S" stopped.
+2026-01-05 02:21:41.197 +00:00 [Debug] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Connection id "0HNI452CPTQ2S" sending FIN because: "The Socket transport's send loop completed gracefully."
+2026-01-05 02:21:51.878 +00:00 [Warning] Microsoft.AspNetCore.Server.Kestrel: As of "01/05/2026 02:01:06 +00:00", the heartbeat has been running for "00:00:02.2175454" which is longer than "00:00:01". This could be caused by thread pool starvation.
