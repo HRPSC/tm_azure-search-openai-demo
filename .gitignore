@@ -151,3 +151,8 @@ static/
 data/**/*.md5
 
 .DS_Store
+
+# Azure logs and diagnostics
+hrpsc-ai-logs*
+*-logs/
+*-logs.zip
