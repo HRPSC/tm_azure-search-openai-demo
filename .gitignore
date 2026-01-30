@@ -155,4 +155,4 @@ data/**/*.md5
 # Azure logs and diagnostics
 hrpsc-ai-logs*
 *-logs/
-*-logs.zip
+*logs.zip
