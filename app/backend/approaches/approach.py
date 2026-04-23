@@ -140,6 +140,7 @@ class Approach(ABC):
         "o3-mini": GPTReasoningModelSupport(streaming=True, minimal_effort=False),
         "o4-mini": GPTReasoningModelSupport(streaming=True, minimal_effort=False),
         "gpt-5": GPTReasoningModelSupport(streaming=True, minimal_effort=True),
+        "gpt-5.2": GPTReasoningModelSupport(streaming=True, minimal_effort=True),
         "gpt-5-nano": GPTReasoningModelSupport(streaming=True, minimal_effort=True),
         "gpt-5-mini": GPTReasoningModelSupport(streaming=True, minimal_effort=True),
     }
